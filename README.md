@@ -1,4 +1,4 @@
-# Hi, I'm Prasanth T I 👋
+# Hi, I'm Prasanth T  👋
 
 ### Computer Science Graduate | Data & Technology
 
