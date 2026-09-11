@@ -15,7 +15,7 @@ I’m a Computer Science graduate interested in **Data Analytics, Data Science, 
 - **Web Development:** HTML, CSS, JavaScript
 - **Tools:** Git, GitHub, VS Code
 
-- ## Projects
+ ## Projects
 
 ### Sales Performance Analysis Dashboard
 Interactive Excel dashboard for analyzing sales performance, revenue, profit, product performance, location-wise performance, and daily revenue trends using Pivot Tables, Pivot Charts, formulas, and slicers.
