@@ -18,7 +18,11 @@ I’m a Computer Science graduate interested in **Data Analytics, Data Science, 
  ## Projects
 
 ### Sales Performance Analysis Dashboard
+
 Interactive Excel dashboard for analyzing sales performance, revenue, profit, product performance, location-wise performance, and daily revenue trends using Pivot Tables, Pivot Charts, formulas, and slicers.
+
+[View Project](https://github.com/prasantht07/Sales-Performance-Analysis-Dashboard-Microsoft-Excel)
+
 
 ### HeirCloud
 Cloud-based system for secure posthumous asset management with privacy controls and authorized asset delivery.
